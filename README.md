@@ -1,6 +1,8 @@
 # 🧠 AI Insight Pro  
 **Professional AI-Image Authenticity Analyzer**
 
+![AI Insight Pro Logo](public/logo.png)
+
 AI Insight Pro is a comprehensive Next.js-based web application that analyzes uploaded images to detect **AI-generated content, deepfakes, and manipulations**. 
 
 ### Key Capabilities
